@@ -13,7 +13,7 @@ TensorFlow Probability has been designed with three goals in mind:
   2.  Numerical stability. 
   3.  Idiomatic. The team argue that tfp code "reads naturally". 
 
-Going to understand what these mean in reality by experiencing the tfp realm.
+I really don't know what these mean at this point. Going to understand what these mean in reality by experiencing the tfp realm.
 
 References: <br>
 https://github.com/nickb- <br>
