@@ -1,9 +1,9 @@
 # Trippy
 
-Trippy is a metaphor to how someone feel when they are on acid. 
-It's about perception and perspective. We do not see large things that are not there. We see what's always been there in reality in a multitude of new ways. Pattern emerge in everything when the brain emphasizes what it used to ignore. Reality becomes exaggerated to a staggering degree.
+The name 'Trippy' here refers to feeling hallucinated. 
+When someone's hallucinated, it's about perception and perspective. We do not see large things that are not there. We see what's always been there in reality in a multitude of new ways. Pattern emerge in everything when the brain emphasizes what it used to ignore. Reality becomes exaggerated to a staggering degree.
 
-Ok, I didn't write that. I borrowed this perspective from Mark Manson. Let me get trippy in the world of tfp now. :)
+Ok, I didn't write that. I borrowed this perspective from Mark Manson. :)
 
 Recording my tfp practices here. <br>
 
