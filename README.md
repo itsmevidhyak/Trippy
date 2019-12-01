@@ -1,6 +1,6 @@
 # Trippy
 
-The name 'Trippy' here is used as a metaphor to seeing what's always been there in reality in a multitude of new ways. Pattern emerge in everything when the brain emphasizes what it used to ignore. Reality becomes exaggerated to a staggering degree.
+The name 'Trippy' here is used as a metaphor to seeing what's always been there in reality in a multitude of new ways. Patterns emerge in everything when the brain emphasizes what it used to ignore. Reality becomes exaggerated to a staggering degree.
 
 Ok, I borrowed this perspective from Mark Manson. :)
 
