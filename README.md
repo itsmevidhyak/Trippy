@@ -15,7 +15,7 @@ TensorFlow Probability has been designed with three goals in mind:
 
 Going to understand what these mean in reality by experiencing the tfp realm.
 
-References:
+References: <br>
 https://github.com/nickb- <br>
 https://github.com/tensorflow/probability <br>
 https://www.youtube.com/watch?v=BjUkL8DFH5Q&t=4s <br>
