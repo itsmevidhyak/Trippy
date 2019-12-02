@@ -18,3 +18,4 @@ References: <br>
 https://github.com/nickb- <br>
 https://github.com/tensorflow/probability <br>
 https://www.youtube.com/watch?v=BjUkL8DFH5Q&t=4s <br>
+[Dillon, Joshua V., Ian Langmore, Dustin Tran, Eugene Brevdo, Srinivas Vasudevan, Dave Moore, Brian Patton, Alex Alemi, Matt Hoffman, and Rif A. Saurous. \"Tensorflow distributions.\" arXiv preprint arXiv:1711.10604 (2017)](https://arxiv.org/pdf/1711.10604.pdf)
